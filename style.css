@@ -23,7 +23,7 @@
     position: fixed;
     top: 0%;
     left: 0%;
-    z-index: 1;
+    z-index: 1000;
 }
 
 .left {
@@ -160,7 +160,7 @@ button:hover {
     position: fixed;
     top: 0%;
     left: 0%;
-    z-index: 1;
+    z-index: 1000000000;
     margin-top: 150px;
     /* margin-left: 75px; */
     padding-inline: 75px;
@@ -330,7 +330,7 @@ a:hover {
     width: 716px;
     height: 555px;
     /* background-color: rgb(101, 10, 120); */
-    background-image: url(./ea26fd_0896b1697c1647f0832db31f200aa5aa~mv2_d_3516_1665_s_2.jpg);
+    background-image: url(./Asstes/ea26fd_0896b1697c1647f0832db31f200aa5aa~mv2_d_3516_1665_s_2.jpg);
     background-position: center;
 
     background-size: contain;
@@ -347,7 +347,7 @@ a:hover {
     height: 390px;
     width: 531.5px;
     /* background-color: orangered; */
-    background-image: url(./ea26fd_9c22735f30f6459295457a5bc33c8070~mv2_d_2640_1200_s_2.jpg);
+    background-image: url(./Asstes/ea26fd_9c22735f30f6459295457a5bc33c8070~mv2_d_2640_1200_s_2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -387,7 +387,7 @@ a:hover {
     height: 390px;
     width: 531.5px;
     /* background-color: rgb(0, 255, 13); */
-    background-image: url(./ea26fd_4cff245e1a194ab4b234f411f0e2d571~mv2_d_2640_1200_s_2.jpg);
+    background-image: url(./Asstes/ea26fd_4cff245e1a194ab4b234f411f0e2d571~mv2_d_2640_1200_s_2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -474,7 +474,7 @@ a:hover {
     height: 80px;
     width: 15%;
     /* background-color: green; */
-    background-image: url(./stick\ \(5\).png);
+    background-image: url(./Asstes/stick\ \(5\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -484,7 +484,7 @@ a:hover {
     height: 80px;
     width: 15%;
     /* background-color: green; */
-    background-image: url(./stick\ \(3\).png);
+    background-image: url(./Asstes/stick\ \(3\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -494,7 +494,7 @@ a:hover {
     height: 80px;
     width: 15%;
     /* background-color: green; */
-    background-image: url(./stick\ \(4\).png);
+    background-image: url(./Asstes/stick\ \(4\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -504,7 +504,7 @@ a:hover {
     height: 80px;
     width: 15%;
     /* background-color: green; */
-    background-image: url(./stick\ \(1\).png);
+    background-image: url(./Asstes/stick\ \(1\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -514,7 +514,7 @@ a:hover {
     height: 80px;
     width: 15%;
     /* background-color: green; */
-    background-image: url(./stick\ \(2\).png);
+    background-image: url(./Asstes/stick\ \(2\).png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -525,7 +525,7 @@ a:hover {
 .i {
     height: 1000px;
     width: 100%;
-    background-image: url(./back.jpg);
+    background-image: url(./Asstes/back.jpg);
     background-position: center;
     top: 0%;
     left: 0%;
@@ -674,7 +674,7 @@ a:hover {
 
 .hello1t {
     height: 140px;
-    background-image: url(./1a.png);
+    background-image: url(./Asstes/1a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -777,7 +777,7 @@ a:hover {
 
 .hello2t {
     height: 140px;
-    background-image: url(./2a.png);
+    background-image: url(./Asstes/2a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -881,7 +881,7 @@ a:hover {
 
 .hello3t {
     height: 140px;
-    background-image: url(./3a.png);
+    background-image: url(./Asstes/3a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -986,7 +986,7 @@ a:hover {
 
 .hello4t {
     height: 140px;
-    background-image: url(./4a.png);
+    background-image: url(./Asstes/4a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1107,7 +1107,7 @@ a:hover {
 
 .hello5t {
     height: 140px;
-    background-image: url(./5a.png);
+    background-image: url(./Asstes/5a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1259,7 +1259,7 @@ a:hover {
 
 .hello1tw {
     height: 140px;
-    background-image: url(./12.png);
+    background-image: url(./Asstes/12.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1362,7 +1362,7 @@ a:hover {
 
 .hello2tw {
     height: 140px;
-    background-image: url(./123.png);
+    background-image: url(./Asstes/123.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1466,7 +1466,7 @@ a:hover {
 
 .hello3tw {
     height: 140px;
-    background-image: url(./1234.png);
+    background-image: url(./Asstes/1234.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1585,7 +1585,7 @@ a:hover {
 
 .hello4tw {
     height: 140px;
-    background-image: url(./12345.png);
+    background-image: url(./Asstes/12345.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1692,7 +1692,7 @@ a:hover {
 
 .hello5tw {
     height: 140px;
-    background-image: url(./123456.png);
+    background-image: url(./Asstes/123456.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
